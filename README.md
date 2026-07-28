@@ -13,6 +13,6 @@ Logbuch meiner Radreise von Krakau bis nach Budweis in ca 10Tagen
 - [Reisekosten 😅](https://github.com/splosch/gravel-karpaten-boehmen-log/blob/main/Kosten.md)
 
 ## Zeitschiene
-- 27.7. [Packen & Vorbereiten - Chemnitz](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/1)
+- 27.7. [Packen & Vorbereiten - Chemnitz](https://github.com/splosch/gravel-karpaten-boehmen-log/issues/1)
 - 28.7. [Tag 0 - Chemnitz 5:50 Flixbus Abfahrt - Krakau 16:00 - Ankunft]()
 - 29.7. [Tag 1 - die ersten Kilometer]()
