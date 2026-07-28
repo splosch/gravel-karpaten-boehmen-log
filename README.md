@@ -1,10 +1,10 @@
 # gravel-karpaten-boehmen-log
 Logbuch meiner Radreise von Krakau bis nach Budweis in ca 10Tagen 
 
+https://www.komoot.de/tour/3146820391?ref=aso&share_token=aIYoom8nrFhMvgG7vwATyMw6wRqX4xGa6kxktXHNnJzygyLguw&t_s=referral&t_cid=route_share
+
 [![Letzter Standort - Mario](https://img.shields.io/badge/Letzter_Standort-Mario-brightgreen?style=for-the-badge&logo=map&logoColor=white)](https://maps.app.goo.gl/bcJQwihnyVoTuLYT7)
 (kann man anklicken😋)
-
-
 
 ## Tour-Plan und Reiselog incl. Bilder
 - [letzte Logeintrag](https://github.com/splosch/gravel-karpaten-boehmen-log/issues/2)
