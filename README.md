@@ -3,7 +3,7 @@ Logbuch meiner Radreise von Krakau bis nach Budweis in ca 10Tagen
 
 **Bilder des aktuellen Tages lade ich in den Log aber deaktiviere sie dass ich nicht jedesmal beim edit die Bilder mitladen muss - am Ende des Tages reaktivierenich sie**
 
-[![Letzter Standort - Mario](https://img.shields.io/badge/Letzter_Standort-Mario-brightgreen?style=for-the-badge&logo=map&logoColor=white)](https://maps.app.goo.gl/bcJQwihnyVoTuLYT7)
+[![Letzter Standort - Mario](https://img.shields.io/badge/Letzter_Standort-Mario-brightgreen?style=for-the-badge&logo=map&logoColor=white)](https://maps.app.goo.gl/3QARKB2TEp3NZSCE8)
 (kann man anklicken😋)
 
 ## Tour-Plan und Reiselog incl. Bilder
