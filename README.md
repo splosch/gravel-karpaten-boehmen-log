@@ -7,7 +7,7 @@ Logbuch meiner Radreise von Krakau bis nach Budweis in ca 10Tagen
 (kann man anklicken😋)
 
 ## Tour-Plan und Reiselog incl. Bilder
-- [letzte Logeintrag](https://github.com/splosch/gravel-karpaten-boehmen-log/issues/6)
+- [letzte Logeintrag](https://github.com/splosch/gravel-karpaten-boehmen-log/issues/7)
 - [Aktuell und Plan](https://github.com/splosch/gravel-karpaten-boehmen-log/issues?q=sort%3Acreated-asc)
 - [Alles was bereits passiert ist](https://github.com/splosch/gravel-karpaten-boehmen-log/issues?q=is%3Aissue+is%3Aclosed)
 
@@ -21,3 +21,4 @@ https://www.komoot.de/tour/3146820391?ref=aso&share_token=aIYoom8nrFhMvgG7vwATyM
 - 30.7. [Tag 2 - Oravou Staudamm -von Polen in die Slowakei](https://github.com/splosch/gravel-karpaten-boehmen-log/issues/4)
 - 31.7. [Tag 3 - Früh vom BestCamping nach Zilina](https://github.com/splosch/gravel-karpaten-boehmen-log/issues/5)
 - 1.8. [Tag 4 - etwas matt von Selina nach Trentschin](https://github.com/splosch/gravel-karpaten-boehmen-log/issues/6)
+- 2.8. [Tag 5 - Ruhetag Trentschin](https://github.com/splosch/gravel-karpaten-boehmen-log/issues/7)
