@@ -22,3 +22,5 @@ https://www.komoot.de/tour/3146820391?ref=aso&share_token=aIYoom8nrFhMvgG7vwATyM
 - 31.7. [Tag 3 - Früh vom BestCamping nach Zilina](https://github.com/splosch/gravel-karpaten-boehmen-log/issues/5)
 - 1.8. [Tag 4 - etwas matt von Selina nach Trentschin](https://github.com/splosch/gravel-karpaten-boehmen-log/issues/6)
 - 2.8. [Tag 5 - Ruhetag Trentschin](https://github.com/splosch/gravel-karpaten-boehmen-log/issues/7)
+- 3.8. [Tag 6 - Auf'n Bock nach de Tscheschen](https://github.com/splosch/gravel-karpaten-boehmen-log/issues/8)
+
