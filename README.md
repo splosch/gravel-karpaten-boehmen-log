@@ -9,7 +9,8 @@ Logbuch meiner Radreise von Krakau bis nach Budweis in ca 10Tagen
 - [Aktuell und Plan](https://github.com/splosch/gravel-karpaten-boehmen-log/issues?q=sort%3Acreated-asc)
 - [Alles was bereits passiert ist](https://github.com/splosch/gravel-karpaten-boehmen-log/issues?q=is%3Aissue+is%3Aclosed)
 
-## Strecke der ersten Tage
+## Streckenplan
+
 https://www.komoot.de/tour/3146820391?ref=aso&share_token=aIYoom8nrFhMvgG7vwATyMw6wRqX4xGa6kxktXHNnJzygyLguw&t_s=referral&t_cid=route_share
 
 ## Zeitschiene
