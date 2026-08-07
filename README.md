@@ -5,7 +5,7 @@ Logbuch meiner Radreise von Krakau bis nach Budweis in ca 10Tagen
 (kann man anklicken😋)
 
 ## Tour-Plan und Reiselog incl. Bilder
-- [letzte Logeintrag](https://github.com/splosch/gravel-karpaten-boehmen-log/issues/10)
+- [letzte Logeintrag](https://github.com/splosch/gravel-karpaten-boehmen-log/issues/11)
 - [Aktuell und Plan](https://github.com/splosch/gravel-karpaten-boehmen-log/issues?q=sort%3Acreated-asc)
 - [Alles was bereits passiert ist](https://github.com/splosch/gravel-karpaten-boehmen-log/issues?q=is%3Aissue+is%3Aclosed)
 
@@ -25,5 +25,5 @@ https://www.komoot.de/tour/3146820391?ref=aso&share_token=aIYoom8nrFhMvgG7vwATyM
 - 3.8. [Tag 6 - Auf'n Bock nach de Tscheschen](https://github.com/splosch/gravel-karpaten-boehmen-log/issues/8)
 - 4.8. [Tag 7 - Routenplanung Richtung Brno, heute Strechin und Baden ](https://github.com/splosch/gravel-karpaten-boehmen-log/issues/9)
 - 5.8. [Tag 8 - noch 45km bis Brno ](https://github.com/splosch/gravel-karpaten-boehmen-log/issues/10)
-
+- 6.8. [Tag 9 - Brno - Dresden und ein WG Wiedersehen ☺️](https://github.com/splosch/gravel-karpaten-boehmen-log/issues/11)
 
