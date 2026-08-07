@@ -27,3 +27,18 @@ https://www.komoot.de/tour/3146820391?ref=aso&share_token=aIYoom8nrFhMvgG7vwATyM
 - 5.8. [Tag 8 - noch 45km bis Brno ](https://github.com/splosch/gravel-karpaten-boehmen-log/issues/10)
 - 6.8. [Tag 9 - Brno - Dresden und ein WG Wiedersehen ☺️](https://github.com/splosch/gravel-karpaten-boehmen-log/issues/11)
 
+## Tatsächlich Gefahren:
+
+| Datum | Tagesdistanz | Höhenmeter (Anstieg) | Startzeit | Etappen / Aktivitäten |
+|---|---|---|---|---|
+| 29.07.2026 | 68,9 km | 1.140 hm | 08:28 Uhr |
+| 30.07.2026 | 90,7 km | 839 hm | 07:02 Uhr |
+| 31.07.2026 | 75,4 km | 1.193 hm | 06:27 Uhr |
+| 01.08.2026 | 86,0 km | 355 hm | 09:33 Uhr |
+| 02.08.2026 | Pausentag | 0 hm | – |
+| 03.08.2026 | 87,1 km | 1.072 hm | 05:30 Uhr |
+| 04.08.2026 | 64,0 km | 557 hm | 05:38 Uhr |
+| 05.08.2026 | 83,5 km | 449 hm | 06:25 Uhr |
+| Gesamt | 555,6 km | 5.605 hm |  |
+
+
